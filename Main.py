@@ -7,7 +7,7 @@ username = input("enter username: \n")
 print("\n")
 print("hello {}".format(username))
 
-print("nnn")
+print("hello")
 
 
 
